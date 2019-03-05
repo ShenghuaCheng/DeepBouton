@@ -1,13 +1,21 @@
-Please download test datasets from xx.
-There are two iamge volumes.
+Please download test datasets from Baidu Drive. Below is url and code.
+url：https://pan.baidu.com/s/1_IjhuMUDzz1xX_iXfCH7DA 
+code：bs6l 
+
+
+There are two iamge volumes. One is our own dataset and the other is a oublic dataset.
 
 PyramidalCellSubBlock.tif is a volume with a size of 1501 x 1366 x 991 (0.2 um x 0.2 um x 1.0 um).  3.8GB
 PyramidalCellSubBlock.swc is a sub-axon-tree in the volume.
 This dataset is imaged by Wuhan National Laboratory for
 Optoelectronics-Huazhong University of Science and Technology
-Details of the data can be found in [1].
-
+Details of the data acquiring can be found in [1].
 
 
 DL1AS2Gr.tif, DL1AS2Gr_Trace1.swc and DL1AS2Gr_Trace1_um.swc
+This datset is a public dataset from Gala et al. ( http://www.northeastern.edu/neurogeometry/resources/bouton-analyzer/)
+The size is 1024 x 1204 x 150 (0.26 um x 0.26 um x 1.0 um). 256MB
+DL1AS2Gr_Trace1.swc is a axon trace in the volume.
+DL1AS2Gr_Trace1_um.swc is the same trace with an uint of micrometer (um). 
 
+[1] Shenghua Cheng et al. (2019). DeepBouton: Automated identification of single-neuron axonal boutons at the brain-wide scale. Front. Neuroinform.
