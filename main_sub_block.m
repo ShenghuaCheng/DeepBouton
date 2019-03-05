@@ -38,9 +38,7 @@ localInd2((localSize + 1)/2, (localSize + 1)/2, (localSize + 1)/2) = 2 * localSi
 %%
 %
 swcArray = load(pathSwc);
-%lineSt = DivideSWC(swcArray);
-lineSt = cell(1,1);%
-lineSt{1}.ind = 1:size(swcArray,1);%
+lineSt = DivideSWC(swcArray);
 n = size(lineSt, 1);
 boutonStTotal = cell(n, 1);
 imgTotal = cell(n, 1);
