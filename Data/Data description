@@ -1,13 +1,13 @@
 
 
 Please download test datasets from Baidu Drive. Below is url and code.
-url：https://pan.baidu.com/s/1_IjhuMUDzz1xX_iXfCH7DA 
-code：bs6l 
+url：xx
+code：xx
 
 
 There are two iamge volumes. One is our own dataset and the other is a oublic dataset.
 
-PyramidalCellSubBlock.tif is a volume with a size of 1501 x 1366 x 991 (0.2 um x 0.2 um x 1.0 um).  3.8GB
+PyramidalCellSubBlock.tif is a volume with a size ofxx
 PyramidalCellSubBlock.swc is a sub-axon-tree in the volume.
 This dataset is imaged by Wuhan National Laboratory for
 Optoelectronics-Huazhong University of Science and Technology
