@@ -1,8 +1,8 @@
 
 
 Please download test datasets from Baidu Drive. Below is url and code.
-url：xx
-code：xx
+url：https://pan.baidu.com/s/1QVO49_3BKSA43uqGLd9psw 
+code：w58g 
 
 
 There are two iamge volumes. One is our own dataset and the other is a oublic dataset.
@@ -14,7 +14,7 @@ Optoelectronics-Huazhong University of Science and Technology
 Details of the data acquiring can be found in [1].
 
 
-DL1AS2Gr.tif, DL1AS2Gr_Trace1.swc and DL1AS2Gr_Trace1_um.swc
+DL1AS2Gr.tif, DL1AS2Gr_Trace1.swc and DL1AS2Gr_Trace1_0.2um.swc
 This datset is a public dataset from Gala et al. ( http://www.northeastern.edu/neurogeometry/resources/bouton-analyzer/)
 The size is 1024 x 1204 x 150 (0.26 um x 0.26 um x 1.0 um). 256MB
 DL1AS2Gr_Trace1.swc is a axon trace in the volume.
