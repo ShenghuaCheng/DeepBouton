@@ -1,10 +1,12 @@
 Please download test datasets from xx.
 There are two iamge volumes.
 
-PyramidalCellSubBlock.tif is a volume with a size of 1501 x 1366 x 991 (0.2 um x 0.2 um x 1.0 um). 
+PyramidalCellSubBlock.tif is a volume with a size of 1501 x 1366 x 991 (0.2 um x 0.2 um x 1.0 um).  3.8GB
 PyramidalCellSubBlock.swc is a sub-axon-tree in the volume.
 This dataset is imaged by Wuhan National Laboratory for
 Optoelectronics-Huazhong University of Science and Technology
+Details of the data can be found in [1].
+
 
 
 DL1AS2Gr.tif, DL1AS2Gr_Trace1.swc and DL1AS2Gr_Trace1_um.swc
