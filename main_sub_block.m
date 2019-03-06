@@ -5,7 +5,7 @@ clc
 %
 pathTIFF = 'Data\DL1AS2Gr.tif';
 pathSwc = 'Data\DL1AS2Gr_Trace1_0.2um.swc';
-pathSave = 'Bouton2';
+pathSave = 'BoutonDetectionResults';
 xyzRes = [0.2 0.2 1];
 
 %%
