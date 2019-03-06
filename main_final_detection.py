@@ -17,9 +17,9 @@ import scipy.io as sio
 import cv2
 import h5py
 
-pathBoutonPatch = 'D:\\MyMatlabFiles\\DeepBoutonForPaper\\Bouton\\bouton_patches.mat'
-pathSvBoutonProb = 'D:\\MyMatlabFiles\\DeepBoutonForPaper\\Bouton\\bouton_prob.mat' 
-pathWeight = 'D:\\MyMatlabFiles\\DeepBoutonForPaper\\Data\\xx.h5'
+pathBoutonPatch = 'D:\\MyMatlabFiles\\DeepBoutonForPaper\\BoutonDetectionResults\\bouton_patches.mat'
+pathSvBoutonProb = 'D:\\MyMatlabFiles\\DeepBoutonForPaper\\BoutonDetectionResults\\bouton_prob.mat' 
+pathWeight = 'D:\\MyMatlabFiles\\DeepBoutonForPaper\\PythonCodeForFinalDetection\\w_R3_4.h5'
 batch_size = 128
 
 
