@@ -22,7 +22,9 @@ Optoelectronics-Huazhong University of Science and Technology.
 
 ### Test Data ###
 
-* There are two test datasets, one (xx MB) can be downloaded along with codes. Another (XX GB) can be obtained at http://xx
+* There are two test datasets
+url：https://pan.baidu.com/s/1QVO49_3BKSA43uqGLd9psw 
+code：w58g 
 
 ### User Manual ###
 
